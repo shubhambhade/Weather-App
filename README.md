@@ -1,2 +1,1 @@
-# Weather-App
-Created  Weather Application using HTML, CSS and JAVASCRIPT  programming languages.
+Bharat Internship Task-2 created Weather Application.
